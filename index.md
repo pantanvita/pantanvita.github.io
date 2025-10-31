@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Welcome to my personal website!
+title: Welcome to my website!
 
 ---
   
-# Anvita Pant
 
 ![Your Photo](AP_linkedin_pic.JPG){: style="width:200px; border-radius:50%;"}
 
 
 **Location:** Rehovot, Israel  
 **Institute:** Weizmann Institute of Science
+
 **Lab:** [Clinical Cancer Proteomics](https://www.weizmann.ac.il/mcb/TGeiger/home)  
 ![email](email.png) [**Email**](anvita.pant@weizmann.ac.il)  
 ![google_scholar](Google_Scholar_logo.svg) [**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
@@ -22,7 +22,9 @@ title: Welcome to my personal website!
 ## About Me
 
 Hi, I am a PhD student at the Department of Molecular Cell Biology at the Weizmann Institute of Science under the supervision of [Prof. Tami Geiger](https://www.weizmann.ac.il/mcb/TGeiger/home).
+
 With an academic foundation in Biotechnology, I have developed a keen interest in exploring the intricate signaling networks that regulate cancer heterogeneity. My long-term scientific interests lie at the interface of proteogenomics and cancer biology to enhance personalized medicine.
+
 Apart from working in the lab, I enjoy swimming, playing badminton, reading fiction novels and hiking!
 
 ---
@@ -52,7 +54,10 @@ I am interested in studying the intra-tumor heterogeneity and interactions withi
   
 ## Publications
 
-[Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis](https://pubs.acs.org/action/showCitFormats?doi=10.1021/jasms.4c00445&ref=pdf)
+[1.**Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis**](https://pubs.acs.org/doi/10.1021/jasms.4c00445)
+
+Shashwati Parihari, **Anvita Pant**, Ankit Halder, and Sanjeeva Srivastava. Journal of the American Society for Mass Spectrometry 2025 36 (6), 1227-1240
+[DOI:](10.1021/jasms.4c00445)  
 
 ---
 
