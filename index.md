@@ -6,15 +6,14 @@ title: Home|Anvita Pant
 
 # Anvita Pant
 
-![Your Photo](AP_linkedin_pic.JPG){: style="width:200px; border-radius:50%;"}
+![Your Photo](assets/AP_linkedin_pic.JPG){: style="width:500px; border-radius:50%;"}
 
 **Location:** Rehovot, Israel  
 **Institute:** Weizmann Institute of Science
-
 **Lab:** [Clinical Cancer Proteomics](https://www.weizmann.ac.il/mcb/TGeiger/home)  
-![email](email.png){: style="width:28px; margin:0 8px;"}[**Email**](anvita.pant@weizmann.ac.il)  
+![email](assets/email.png){: style="width:28px; margin:0 8px;"}[**Email**](anvita.pant@weizmann.ac.il)  
 ![google_scholar](Google_Scholar_logo.svg){: style="width:28px; margin:0 8px;"}[**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
-![linkedin](linkedin.svg){: style="width:28px; margin:0 8px;"}[**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
+![linkedin](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){: style="width:28px; margin:0 8px;"}[**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
 ![github](github.svg){: style="width:28px; margin:0 8px;"}[**Github**](https://github.com/pantanvita)
 
 ---
