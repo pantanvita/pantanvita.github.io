@@ -1,20 +1,21 @@
 ---
 layout: default
-title: Home|Anvita Pant
+title: Home
 
 ---
 
-# Anvita Pant
+# Welcome to my Webpage!
 
 ![Your Photo](assets/AP_linkedin_pic.JPG){: style="width:500px; border-radius:50%;"}
 
-**Location:** Rehovot, Israel  
-**Institute:** Weizmann Institute of Science
+![location_icon](assets/location-pin.svg){: style="width:28px; margin:0 8px;"}**Rehovot, Israel**  
+![university_icon](assets/university-1.svg){: style="width:28px; margin:0 8px;"}**Weizmann Institute of Science**
+
 **Lab:** [Clinical Cancer Proteomics](https://www.weizmann.ac.il/mcb/TGeiger/home)  
-![email](assets/email.png){: style="width:28px; margin:0 8px;"}[**Email**](anvita.pant@weizmann.ac.il)  
-![google_scholar](Google_Scholar_logo.svg){: style="width:28px; margin:0 8px;"}[**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
-![linkedin](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){: style="width:28px; margin:0 8px;"}[**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
-![github](github.svg){: style="width:28px; margin:0 8px;"}[**Github**](https://github.com/pantanvita)
+![email_icon](assets/email.png){: style="width:28px; margin:0 8px;"}[**Email**](anvita.pant@weizmann.ac.il)  
+![google_scholar_icon](assets/Google_Scholar_logo.svg){: style="width:28px; margin:0 8px;"}[**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
+![linkedin_icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){: style="width:28px; margin:0 8px;"}[**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
+![github_icon](assets/github.svg){: style="width:28px; margin:0 8px;"}[**Github**](https://github.com/pantanvita)
 
 ---
   
@@ -54,9 +55,7 @@ I am interested in studying the intra-tumor heterogeneity and interactions withi
 ## Publications
 
 [1. **Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis**](https://pubs.acs.org/doi/10.1021/jasms.4c00445)
-
-Shashwati Parihari, **Anvita Pant**, Ankit Halder, and Sanjeeva Srivastava. Journal of the American Society for Mass Spectrometry **2025** *36*(6), 227-1240
-[DOI:10.1021/jasms.4c00445](10.1021/jasms.4c00445)  
+Shashwati Parihari, **Anvita Pant**, Ankit Halder, and Sanjeeva Srivastava. Journal of the American Society for Mass Spectrometry **2025** *36*(6), 227-1240. [doi:10.1021/jasms.4c00445](10.1021/jasms.4c00445)  
 
 ---
 
