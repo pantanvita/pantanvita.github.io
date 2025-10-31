@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: ![graduation_cap_icon](assets/graduation-cap.svg){: style="width:20px; margin:0 8px;"} Home
 
 ---
 
