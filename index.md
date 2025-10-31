@@ -7,26 +7,27 @@ title: Anvita Pant
 
 
 
-**Location:** [Rehovot, Israel]  
-**University:** [Weizmann Institute of Science] 
-**Lab:** [Lab](https://www.weizmann.ac.il/mcb/TGeiger/home)  
+**Location:** Rehovot, Israel  
+**University:** Weizmann Institute of Science
+
+**Lab:** (https://www.weizmann.ac.il/mcb/TGeiger/home)  
 **Email:** (anvita.pant@weizmann.ac.il)  
-**Google Scholar:** [Link](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
-**LinkedIn:** [Link](https://www.linkedin.com/in/anvita-pant/)   
-**GitHub:** [Link](https://github.com/pantanvita)
+**Google Scholar:** (https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
+**LinkedIn:** (https://www.linkedin.com/in/anvita-pant/)   
+**GitHub:** (https://github.com/pantanvita)
 
 ---
 
 ## About Me
 
-I am a PhD student at the Department of Molecular Cell Biology at the Weizmann Institute of Science under the supervision of Prof. Tami Geiger. I have graduated my master's from Indian Institute of Technology Bombay (IIT-B), Mumbai, India. Previously, I have worked at the University of British Columbia, Vancouver, Canada under MITACS GRI 2022 and at University of Lausanne, Lausanne, Switzerland as Graduate Teaching Assistant.
+I am a PhD student at the Department of Molecular Cell Biology at the Weizmann Institute of Science under the supervision of Prof. Tami Geiger.
 With an academic foundation in Biotechnology, I have developed a keen interest in exploring the intricate cellular signaling networks that regulate cancer heterogeneity and complexity. My long-term scientific interests lie at the interface of proteogenomics and cancer biology to enhance personalized medicine.
 
 ---
 
 ## Research
 
-Currently, as a PhD student under the supervision of Prof. Tamar Geiger at the Weizmann Institute of Science, I am interested in studying the intra-tumor heterogeneity and interactions within the tumor microenvironment by employing spatial proteomics. This coupled with mass spectrometry-based proteomics will allow us to obtain a holistic and comprehensive understanding of the spatial organization and the proteomic interplay between tumor and immune cells.
+I am interested in studying the intra-tumor heterogeneity and interactions within the tumor microenvironment by employing spatial proteomics. This coupled with mass spectrometry-based proteomics will allow us to obtain a holistic and comprehensive understanding of the spatial organization and the proteomic interplay between tumor and immune cells.
 
 
 ---
@@ -35,7 +36,7 @@ Currently, as a PhD student under the supervision of Prof. Tamar Geiger at the W
 
 - **Ph.D. (2025- present)** — [Weizmann Institute of Science]  
 - **M.Sc. (2021- 2023)** — [Indian Institute of Technology Bombay (IIT-B)]
-- **B.Sc. (2018- 2021)** — [Banaras Hindu University]
+
 ---
 
 ## Projects
@@ -54,4 +55,3 @@ Currently, as a PhD student under the supervision of Prof. Tamar Geiger at the W
 
 ---
 
-📄 **[Download My CV (PDF)](YourCV.pdf)**
