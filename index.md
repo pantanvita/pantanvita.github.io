@@ -6,21 +6,21 @@ title: Anvita Pant
 # Anvita Pant
 
 
-
+![Your Photo](AP_linkedin_pic.JPG){: style="width:200px; border-radius:50%;"}
 **Location:** Rehovot, Israel  
 **Institute:** Weizmann Institute of Science
 
-**Lab:** [Clinical Cancer Proteomics-Prof. Tami Geiger](https://www.weizmann.ac.il/mcb/TGeiger/home)  
+**Lab:** [Clinical Cancer Proteomics](https://www.weizmann.ac.il/mcb/TGeiger/home)  
 **Email** [**Email**](anvita.pant@weizmann.ac.il)  
-**Google Scholar:** [Anvita Pant](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
-**LinkedIn:** (https://www.linkedin.com/in/anvita-pant/)   
-**GitHub:** (https://github.com/pantanvita)
+**Google Scholar:** [Googele Scholar](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/anvita-pant/)   
+**GitHub:** [Github](https://github.com/pantanvita)
 
 ---
 
 ## About Me
 
-I am a PhD student at the Department of Molecular Cell Biology at the Weizmann Institute of Science under the supervision of Prof. Tami Geiger.
+I am a PhD student at the Department of Molecular Cell Biology at the Weizmann Institute of Science under the supervision of [Prof. Tami Geiger]((https://www.weizmann.ac.il/mcb/TGeiger/home).
 With an academic foundation in Biotechnology, I have developed a keen interest in exploring the intricate cellular signaling networks that regulate cancer heterogeneity and complexity. My long-term scientific interests lie at the interface of proteogenomics and cancer biology to enhance personalized medicine.
 
 ---
@@ -51,7 +51,7 @@ I am interested in studying the intra-tumor heterogeneity and interactions withi
 ---
 
 ## Publications
-*[Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis](https://pubs.acs.org/action/showCitFormats?doi=10.1021/jasms.4c00445&ref=pdf)
+[Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis](https://pubs.acs.org/action/showCitFormats?doi=10.1021/jasms.4c00445&ref=pdf)
 
 ---
 
