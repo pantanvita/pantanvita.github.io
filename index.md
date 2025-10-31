@@ -3,22 +3,19 @@ layout: default
 title: Home|Anvita Pant
 
 ---
-<p style="text-align:center;">
 
 # Anvita Pant
 
 ![Your Photo](AP_linkedin_pic.JPG){: style="width:200px; border-radius:50%;"}
 
-</p>
-
 **Location:** Rehovot, Israel  
 **Institute:** Weizmann Institute of Science
 
 **Lab:** [Clinical Cancer Proteomics](https://www.weizmann.ac.il/mcb/TGeiger/home)  
-![email](email.png) [**Email**](anvita.pant@weizmann.ac.il)  
-![google_scholar](Google_Scholar_logo.svg) [**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
-![linkedin](linkedin.svg) [**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
-![github](github.svg) [**Github**](https://github.com/pantanvita)
+![email](email.png){: style="width:28px; margin:0 8px;"}[**Email**](anvita.pant@weizmann.ac.il)  
+![google_scholar](Google_Scholar_logo.svg){: style="width:28px; margin:0 8px;"}[**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
+![linkedin](linkedin.svg){: style="width:28px; margin:0 8px;"}[**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
+![github](github.svg){: style="width:28px; margin:0 8px;"}[**Github**](https://github.com/pantanvita)
 
 ---
   
