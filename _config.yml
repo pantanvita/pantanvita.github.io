@@ -1,5 +1,7 @@
-title: Anvita Pant
+title: Delve into Science!
 title_align: center
+cover_image: '/assets/proteomics.PNG'
+
 plugins:
   - jekyll-remote-theme
 
