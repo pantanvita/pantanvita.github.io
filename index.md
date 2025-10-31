@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Anvita Pant
 
 ---
 
@@ -46,16 +46,19 @@ I am interested in studying the intra-tumor heterogeneity and interactions withi
 
 - **Molecular and cellular characterization of Rab14 protein-dependent endocytic pathway-** University of Lausanne, Lausanne, Switzerland (Sept 2023- Sept 2024)  
   
-- **Master's Thesis: Mass spectrometry-based Proteomics and Metabolomics analysis of Chemoresistance in Triple-Negative Breast Cancer (TNBC)-** Indian Institute of Technology Bombay, Mumbai, India (2022- 2023)
+- **Master's Thesis: Mass spectrometry-based Proteomics and Metabolomics analysis of Chemoresistance in Triple-Negative Breast Cancer (TNBC)-** Indian Institute of Technology Bombay, Mumbai, India (Aug 2022- July 2023)
 
-- **Identification of a cell surface receptor(s) needed for binding of a virus-like gene transfer agent, RcGTA, in the bacterium Rhodobacter capsulatus-** Univeristy of British Columbia (May 2022- July 2022)
+- **Identification of a cell surface receptor(s) needed for binding of a virus-like gene transfer agent, RcGTA, in the bacterium Rhodobacter capsulatus-** Univeristy of British Columbia, Vancouver, Canada (May 2022- July 2022)
   
 ---
   
 ## Publications
 
 [1. **Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis**](https://pubs.acs.org/doi/10.1021/jasms.4c00445)
-Shashwati Parihari, **Anvita Pant**, Ankit Halder, and Sanjeeva Srivastava. Journal of the American Society for Mass Spectrometry **2025** *36*(6), 227-1240. [doi:10.1021/jasms.4c00445](10.1021/jasms.4c00445)  
+
+Shashwati Parihari, **Anvita Pant**, Ankit Halder, and Sanjeeva Srivastava. 
+
+Journal of the American Society for Mass Spectrometry **2025** *36*(6), 227-1240. [doi:10.1021/jasms.4c00445](10.1021/jasms.4c00445)  
 
 ---
 
