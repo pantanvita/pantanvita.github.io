@@ -4,3 +4,5 @@ theme: jekyll-theme-slate
 profile_pic: AP_linkedin_pic.JPG
 show_downloads: true
 google_analytics:
+include:
+  - README.md  # If you want to make sure README.md is processed
