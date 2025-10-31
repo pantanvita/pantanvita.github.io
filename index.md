@@ -12,8 +12,8 @@ title: Home
 ![university_icon](assets/university-1.svg){: style="width:20px; margin:0 8px;"}**Weizmann Institute of Science**
 
 ![lab_icon](assets/lab_icon_1.png){: style="width:20px; margin:0 8px;"}[**Clinical Cancer Proteomics**](https://www.weizmann.ac.il/mcb/TGeiger/home)  
-![email_icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg){: style="width:20px; margin:0 8px;"}[**Email**](anvita.pant@weizmann.ac.il)  
-![google_scholar_icon](assets/Google_Scholar_logo.svg](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg){: style="width:20px; margin:0 8px;"}[**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
+![email_icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg){: style="width:20px; margin:0 8px;"}[**Email**](anvita.pant@weizmann.ac.il)  
+![google_scholar_icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg){: style="width:20px; margin:0 8px;"}[**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
 ![linkedin_icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){: style="width:20px; margin:0 8px;"}[**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
 ![github_icon](assets/github.svg){: style="width:20px; margin:0 8px;"}[**Github**](https://github.com/pantanvita)
 
