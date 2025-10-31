@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Welcome to my website!
+title: Home|Anvita Pant
 
 ---
-  
+<p style="text-align:center;">
+
+# Anvita Pant
 
 ![Your Photo](AP_linkedin_pic.JPG){: style="width:200px; border-radius:50%;"}
 
+</p>
 
 **Location:** Rehovot, Israel  
 **Institute:** Weizmann Institute of Science
@@ -54,10 +57,10 @@ I am interested in studying the intra-tumor heterogeneity and interactions withi
   
 ## Publications
 
-[1.**Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis**](https://pubs.acs.org/doi/10.1021/jasms.4c00445)
+[1. **Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis**](https://pubs.acs.org/doi/10.1021/jasms.4c00445)
 
-Shashwati Parihari, **Anvita Pant**, Ankit Halder, and Sanjeeva Srivastava. Journal of the American Society for Mass Spectrometry 2025 36 (6), 1227-1240
-[DOI:](10.1021/jasms.4c00445)  
+Shashwati Parihari, **Anvita Pant**, Ankit Halder, and Sanjeeva Srivastava. Journal of the American Society for Mass Spectrometry **2025** *36*(6), 227-1240
+[DOI:10.1021/jasms.4c00445](10.1021/jasms.4c00445)  
 
 ---
 
