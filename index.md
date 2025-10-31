@@ -6,12 +6,11 @@ layout: default
   
 # Anvita Pant
 
-
 ![Your Photo](AP_linkedin_pic.JPG){: style="width:200px; border-radius:50%;"}
 
 </div>
 
-<div align="left">
+<div align="center">
   
 **Location:** Rehovot, Israel  
 **Institute:** Weizmann Institute of Science
@@ -20,7 +19,7 @@ layout: default
 ![email](email.png) [**Email**](anvita.pant@weizmann.ac.il)  
 ![google_scholar](Google_Scholar_logo.svg) [**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
 ![linkedin](linkedin.svg) [**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
-![github](github.svg) [Github](https://github.com/pantanvita)
+![github](github.svg) [**Github**](https://github.com/pantanvita)
 
 </div>
 
@@ -52,8 +51,8 @@ I am interested in studying the intra-tumor heterogeneity and interactions withi
 
 </div>
 
-- **Ph.D. (2025- present)** — [Weizmann Institute of Science]  
-- **M.Sc. (2021- 2023)** — [Indian Institute of Technology Bombay (IIT-B)]
+- **Ph.D. (2025- present)** — Weizmann Institute of Science 
+- **M.Sc. (2021- 2023)** — Indian Institute of Technology Bombay (IIT-B)
 
 ---
 <div align="center">
@@ -76,8 +75,7 @@ I am interested in studying the intra-tumor heterogeneity and interactions withi
 
 </div>
 
-Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis
-(https://pubs.acs.org/action/showCitFormats?doi=10.1021/jasms.4c00445&ref=pdf)
+[Unravelling the Mechanism of Cisplatin Resistance in Triple-Negative Breast Cancer: Insights from Metabolomic Profiling via Mass Spectrometry Analysis](https://pubs.acs.org/action/showCitFormats?doi=10.1021/jasms.4c00445&ref=pdf)
 
 ---
 
