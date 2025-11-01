@@ -37,14 +37,10 @@ My long-term scientific interests lie at the interface of proteogenomics and can
 
 ## 📫 Contact
 
-![email_icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg){: style="width:20px; margin:0 8px;"}[**Email**](mailto:anvita.pant@weizmann.ac.il)  
-![google_scholar_icon](assets/google-cholar-icon-3.png){: style="width:20px; margin:0 8px;"}[**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
-![linkedin_icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){: style="width:20px; margin:0 8px;"}[**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
-![github_icon](assets/github.svg){: style="width:20px; margin:0 8px;"}[**Github**](https://github.com/pantanvita)
-
----
-  
-
+*[**Email**](mailto:anvita.pant@weizmann.ac.il)  
+*[**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
+*[**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
+*[**Github**](https://github.com/pantanvita)
 
 ---
 
