@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Anvita's Website
+title: Anvita Pant
 
 ---
 
-# Welcome to my Webpage!
+# Welcome to my website!
 
-![Your Photo](assets/AP_linkedin_pic.JPG){: style="width:500px; border-radius:50%;"}
+![Your Photo](assets/side-bar-img.jpg){: style="width:300px; border-radius:50%;"}
 
-![location_icon](assets/location-pin.svg){: style="width:20px; margin:0 8px;"}**Rehovot, Israel**  
-![university_icon](assets/university-1.svg){: style="width:20px; margin:0 8px;"}**Weizmann Institute of Science**
+![location_icon](assets/location-pin.svg){: style="width:20px; margin:0 8px;"}[**Rehovot, Israel**](https://www.google.com/maps/place/Rehovot/@31.8933705,34.7239477,12z/data=!3m1!4b1!4m6!3m5!1s0x1502b70592bfe58f:0xeeadf8cb1758f957!8m2!3d31.8943652!4d34.8115292!16zL20vMDF2dHR5?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D)  
+![university_icon](assets/university-1.svg){: style="width:20px; margin:0 8px;"}[**Weizmann Institute of Science**](https://www.weizmann.ac.il/pages/)
 
-![lab_icon](assets/lab_icon_1.png){: style="width:20px; margin:0 8px;"}[**Clinical Cancer Proteomics**](https://www.weizmann.ac.il/mcb/TGeiger/home)  
+![lab_icon](assets/lab_icon_1.png){: style="width:20px; margin:0 8px;"}[**Clinical Cancer Proteomics**](https://www.weizmann.ac.il/mcb/TGeiger/group-members)  
 ![email_icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg){: style="width:20px; margin:0 8px;"}[**Email**](mailto:anvita.pant@weizmann.ac.il)  
 ![google_scholar_icon](assets/google-cholar-icon-3.png){: style="width:20px; margin:0 8px;"}[**Google Scholar**](https://scholar.google.com/citations?user=0D6QbOUAAAAJ&hl=en)  
 ![linkedin_icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg){: style="width:20px; margin:0 8px;"}[**LinkedIn**](https://www.linkedin.com/in/anvita-pant/)   
@@ -21,7 +21,7 @@ title: Anvita's Website
   
 ## About Me
 
-Hi, I am a PhD student at the Department of Molecular Cell Biology at the Weizmann Institute of Science under the supervision of [Prof. Tami Geiger](https://www.weizmann.ac.il/mcb/TGeiger/home).
+Hi, I am a PhD student at the Department of [Molecular Cell Biology](https://www.weizmann.ac.il/mcb/) at the Weizmann Institute of Science under the supervision of [Prof. Tami Geiger](https://www.weizmann.ac.il/mcb/TGeiger/home).
 
 With an academic foundation in Biotechnology, I have developed a keen interest in exploring the intricate signaling networks that regulate cancer heterogeneity. My long-term scientific interests lie at the interface of proteogenomics and cancer biology to enhance personalized medicine.
 
