@@ -1,6 +1,6 @@
 title: Anvita Pant
 title_align: center
-accent_image: '/assets/proteomics.PNG'
+accent_image: '/assets/side-bar-img.jpg'
 
 plugins:
   - jekyll-remote-theme
