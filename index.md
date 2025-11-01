@@ -6,7 +6,7 @@ title: Anvita Pant
 
 # Welcome to my website!
 
-![avatar](assets/newgithubpic.jpg){: style="width:500px; height:300px; border-radius:50%;"}
+![avatar](assets/newgithubpic.jpg){: style="width:500px; height:500px; border-radius:50%;"}
 
 ![location_icon](assets/location-pin.svg){: style="width:20px; margin:0 8px;"}[**Rehovot, Israel**](https://www.google.com/maps/place/Rehovot/@31.8933705,34.7239477,12z/data=!3m1!4b1!4m6!3m5!1s0x1502b70592bfe58f:0xeeadf8cb1758f957!8m2!3d31.8943652!4d34.8115292!16zL20vMDF2dHR5?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D)  
 ![university_icon](assets/university-1.svg){: style="width:20px; margin:0 8px;"}[**Weizmann Institute of Science**](https://www.weizmann.ac.il/pages/)
