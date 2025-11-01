@@ -1,6 +1,6 @@
 title: Anvita Pant
 title_align: center
-accent_image: '/assets/side-bar-img.jpg'
+accent_image: 'assets/proteinimg.jpg'
 
 plugins:
   - jekyll-remote-theme
