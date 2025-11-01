@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anvita Pant
+title: Anvita Pant (אנוויטה פאנת)
 
 ---
 
