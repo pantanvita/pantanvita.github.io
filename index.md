@@ -6,7 +6,8 @@ title: Anvita Pant
 
 # Welcome to my website!
 
-![avatar](assets/githubpic.png){: style="width:500px; border-radius:50%;"}
+![avatar](assets/githubpic.png){: style="width:220px; height:300px; border-radius:50%; object-fit:cover;"}
+
 ![location_icon](assets/location-pin.svg){: style="width:20px; margin:0 8px;"}[**Rehovot, Israel**](https://www.google.com/maps/place/Rehovot/@31.8933705,34.7239477,12z/data=!3m1!4b1!4m6!3m5!1s0x1502b70592bfe58f:0xeeadf8cb1758f957!8m2!3d31.8943652!4d34.8115292!16zL20vMDF2dHR5?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D)  
 ![university_icon](assets/university-1.svg){: style="width:20px; margin:0 8px;"}[**Weizmann Institute of Science**](https://www.weizmann.ac.il/pages/)
 
@@ -20,9 +21,7 @@ title: Anvita Pant
   
 ## About Me
 
-Hi, I am Anvita Pant from India. 
-
-I am a PhD student at the Department of [Molecular Cell Biology](https://www.weizmann.ac.il/mcb/) at the Weizmann Institute of Science under the supervision of [Prof. Tami Geiger](https://www.weizmann.ac.il/mcb/TGeiger/home).
+Hi, I am Anvita Pant from India. I am a PhD student at the Department of [Molecular Cell Biology](https://www.weizmann.ac.il/mcb/) at the Weizmann Institute of Science under the supervision of [Prof. Tami Geiger](https://www.weizmann.ac.il/mcb/TGeiger/home).
 
 With an academic foundation in Biotechnology, I have developed a keen interest in exploring the intricate signaling networks that regulate tumor complexity within the tumor microenvironment. My long-term scientific interests lie at the interface of proteogenomics and cancer biology to enhance personalized medicine.
 
