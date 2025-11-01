@@ -29,7 +29,7 @@ My long-term scientific interests lie at the interface of proteogenomics and can
   ## ⚙️ Built With
 - [Jekyll](https://jekyllrb.com/)
 - [GitHub Pages](https://pages.github.com/)
-- Theme: [Not Pure Poole](https://github.com/vszhub/not-pure-poole)
+- Theme: [HydeJack](https://github.com/qwtel/hydejack)
 
 ---
   
