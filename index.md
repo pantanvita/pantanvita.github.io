@@ -3,8 +3,6 @@ layout: default
 title: Anvita Pant (אנוויטה פאנת)
 
 ---
-
-<div align = "center">
   
 # Welcome to my website!
 
@@ -20,8 +18,6 @@ title: Anvita Pant (אנוויטה פאנת)
 ![github_icon](assets/github.svg){: style="width:20px; margin:0 8px;"}[**Github**](https://github.com/pantanvita)
 
 ---
-
-  <div align = "center">
     
 ## About Me
 
