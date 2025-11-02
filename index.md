@@ -4,7 +4,7 @@ title: Anvita Pant (אנוויטה פאנת)
 
 ---
 
-<div align = center">
+<div align = "center">
   
 # Welcome to my website!
 
@@ -21,7 +21,7 @@ title: Anvita Pant (אנוויטה פאנת)
 
 ---
 
-  <div align = center">
+  <div align = "center">
     
 ## About Me
 
