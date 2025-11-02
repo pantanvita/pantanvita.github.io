@@ -4,6 +4,8 @@ title: Anvita Pant (אנוויטה פאנת)
 
 ---
 
+<div align = center">
+  
 # Welcome to my website!
 
 ![avatar](assets/newgithubpic.jpg){: style="width:450px; border-radius:50%;"}
@@ -18,7 +20,9 @@ title: Anvita Pant (אנוויטה פאנת)
 ![github_icon](assets/github.svg){: style="width:20px; margin:0 8px;"}[**Github**](https://github.com/pantanvita)
 
 ---
-  
+
+  <div align = center">
+    
 ## About Me
 
 Hi, I am Anvita Pant from India. I am a PhD student at the Department of [Molecular Cell Biology](https://www.weizmann.ac.il/mcb/) at the Weizmann Institute of Science under the supervision of [Prof. Tami Geiger](https://www.weizmann.ac.il/mcb/TGeiger/home).
