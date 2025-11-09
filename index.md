@@ -37,9 +37,9 @@ I am interested in studying the intra-tumor heterogeneity and interactions withi
   
 ## Education
 
-- **Ph.D. (2025- present):** Weizmann Institute of Science, Rehovot, Israel 
-- **M.Sc. (2021- 2023):** Indian Institute of Technology Bombay (IIT-B), Mumbai, India
-- **B.Sc. (2018- 2021):** Banaras Hindu University, Varanasi, India
+- **Ph.D. (2025- present):** Weizmann Institute of Science, Israel 
+- **M.Sc. (2021- 2023):** Indian Institute of Technology Bombay (IIT-B), India
+- **B.Sc. (2018- 2021):** Banaras Hindu University, India
 
 ---
   
